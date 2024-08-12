@@ -1,0 +1,216 @@
+{
+  "introduction": {
+    "greeting": "Hey There, I'm ",
+    "backgroundPicture": "assets/me_background.png",
+    "name": "Siddharth Jain.",
+    "title": "I build scalable, robust backend systems.",
+    "description": "I am a software engineering leader passionate about building data-driven backend solutions. Currently, I lead a team at !!The Options Clearing Corporation(https://theocc.com)!!, delivering cutting-edge microservices and data pipelines that significantly enhance system performance and reliability."
+  },
+  "about": {
+    "title": "About Me",
+    "imageUrl": "assets/me.jpeg",
+    "paragraph1":
+    "Back in 2013, I embarked on my journey in software engineering, diving deep into the world of coding and development at the University of Florida. Fast-forward to today, and I’ve had the privilege of architecting and leading software solutions for a leading !!nonprofit(https://prathambooks.org)!! , an innovative !!startup(https://www.uptake.com)!! , and a major !!financial corporation(https://theocc.com)!! .",
+    "paragraph2":
+    "My main focus these days is leading a team of engineers at The Options Clearing Corporation, where we design and deliver high-performance microservices and data pipelines that drive significant business impact. I thrive on solving complex problems at scale, creating robust and scalable backend solutions, and ensuring our systems are both reliable and efficient.",
+    "paragraph3":
+    "When I’m not immersed in code, I enjoy working on personal tech projects, mentoring upcoming developers, and volunteering with organizations that make a positive social impact. Outside of tech, I love exploring new places, reading, and spending quality time with friends and family.",
+    "paragraph4":
+    "Here are a few technologies I've been working with recently:",
+    "techStack": ["...Java8/11", "...Apache Flink","...Kafka", "...Spring Framework", "...Kubernetes","...PostgreSQl","Redis","...Microservice Framework","Flutter", "NoSQL", "Dart"]
+  },
+  "work":[
+    {
+    "title": "Lead Software Engineer",
+    "companyName": "The Options Clearing Corporation.",
+    "companyUrl": "https://theocc.com",
+    "points": [
+      "!!Lead a team of 6 engineers!! to redesign and deliver a software solution, 3 months ahead of schedule and $200k under budget.",
+      "Architected and implemented data ingestion pipelines capable of processing and persisting 30,000 records/sec using Apache Flink, Kafka, PostgreSQL reducing processing times by 80%.",
+      "Designed and implemented the !!Core Netting Library!! used by multiple teams to calculate and re-access risk for defaulting clearing members using Java11, Generics, Java Streams API, Collections Framework",
+      "Implemented authentication for core microservices using OAuth2, Okta and Spring Security.",
+      "Designed and implemented several microservices for Real Time Clearing Platform using Java8, Spring Boot,Redis, Choreography and Event Driven Architecture patterns.",
+      "Designed and implemented the database migration tool and strategy using Flyway, PostgreSQL, EnterpriseDB.",
+      "Architected and developed highly scalable backend systems, ensuring reduced downtime, efficient resource utilization using Docker, Kubernetes, Helm, Splunk, Rancher.",
+      "Displayed strong leadership by collaborating with stakeholders and product owners to define nonfunctional requirements, establish service level agreements, and set software testing standards.",
+      "Worked on extensively documenting onboarding processes, core libraries, and code templates, standardizing best coding practices for smooth adoption of new services."
+    ],
+    "startDate": "October 2019"
+    },
+    {
+    "title": "Staff Software Developer",
+    "companyName": "The Options Clearing Corporation.",
+    "companyUrl": "",
+    "points": [
+      "Led the design and development of multiple core libraries and components to standardize common software components like microservices, Restful API, security and exception handling code.",
+      "Enabled downstream application workflows by re-designing and implementing proprietary price smoothing engine to ingest and transform market data from vendors, capable of transforming 2 million records in ~5 minutes.",
+      "Developed Market Data vendor onboarding pipelines to make new vendor onboarding process 3x faster using Apache Flink, Spring Boot, Kafka, PostgreSql, Redis.",
+      "Designed and developed high performance Restful API's capable of serving ~2 million records over HTTP.",
+      "Collaborated on Designed and implemented core components of Integration Testing Suite using Citrus IT, to enable automated integration testing of software applications and data processing pipelines."
+    ],
+    "startDate": "October 2019"
+  },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Uptake Inc.",
+      "companyUrl": "https://uptake.com",
+      "points": [
+        "Implemented multi-tenancy and authorization/authentication for core platform using Auth0, Spring Security, Spring Boot.",
+        "Mentored a team of 6 developers,to migrate core platform to scalable, high-volume, low latency microservices using Kanban Agile methodology.",
+        "Worked on development of highly concurrent, data-driven applications, constructing REST services using Java8, Kotlin and Kafka.",
+        "Developed core libraries to query ElasticSearch for data and aggregations, reducing overall redundancy and maximizing code reusability.",
+        "Developed and deployed dockerized applications using Docker, Jenkins CI/CD, Mesos/Marathon for continuous delivery of code, collecting application metrics and visualizing them using influxDB and Grafana.",
+        "Involved in rapid prototyping of several small applications using AngularJS, JavaScript, BootStrap, CSS and HTML5.",
+        "Developed tools and scripts using Groovy to migrate and re-index data on ElasticSearch.",
+        "Mentor as a Platform Engineer for a leading nonprofit for children in India, as a part of Uptake.org community."
+      ],
+      "startDate": "July 2018",
+      "endDate": "October 2019"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Egen Solutions Inc.",
+      "companyUrl": "https://egen.ai/",
+      "points": [
+        "Implemented multi-tenancy and authorization/authentication for core platform using Auth0, Spring Security, Spring Boot.",
+        "Mentored a team of 6 developers,to migrate core platform to scalable, high-volume, low latency microservices using Kanban Agile methodology.",
+        "Worked on development of highly concurrent, data-driven applications, constructing REST services using Java8, Kotlin and Kafka.",
+        "Developed core libraries to query ElasticSearch for data and aggregations, reducing overall redundancy and maximizing code reusability.",
+        "Developed and deployed dockerized applications using Docker, Jenkins CI/CD, Mesos/Marathon for continuous delivery of code, collecting application metrics and visualizing them using influxDB and Grafana.",
+        "Involved in rapid prototyping of several small applications using AngularJS, JavaScript, BootStrap, CSS and HTML5.",
+        "Developed tools and scripts using Groovy to migrate and re-index data on ElasticSearch.",
+        "Mentor as a Platform Engineer for a leading nonprofit for children in India, as a part of Uptake.org community."
+      ],
+      "startDate": "May 2015",
+      "endDate": "July 2018"
+    }
+  ],
+  "awards": [
+    {
+      "award": "The OCC Commitment to Excellence Award",
+      "description": "Awarded for taking lead on the Core Market Data Pipelines.",
+      "date": "May 2022, May 2020"
+    },
+    {
+      "award": "YCombinator Startup School Graduate",
+      "description": "with a business idea to improve literacy using literature.",
+      "date": "June 2019"
+    },
+    {
+      "award": "Jagriti Yatra BGT Winner",
+      "description": "Biz Gyan Tree(Business Pitch) Programme Winner 2020 in Finance vertical for Best Business Plan, with seed funding of 10 million INR.",
+      "date": "December 2020"
+    },
+    {
+      "award": "Jagriti Yatra Graduate",
+      "description": "Graduate of the 2020 Jagriti Yatra entrepreneurship train journey, embodying a commitment to entrepreneurial excellence, innovation, and positive social impact.",
+      "date": "December 2020"
+    },
+    {
+      "award": "Uptake Value Award",
+      "description": "Awarded too understand the problem in depth and solving it with unbridled commitment.",
+      "date": "July 2019"
+    },
+    {
+      "award": "Uptake Hackathon Winner",
+      "description": "Winner of Uptake Hackathon Fall Edition 2015 and Fall Edition 2017.",
+      "date": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mule",
+      "description": "An intelligent delivery system that enables students to be one another's deliverers - iOS and Android App",
+      "url": "https://github.com/themuleapp/mule-app",
+      "icon": "web",
+      "tags": ["Flutter", "NodeJS", "Firebase"]
+    },
+    {
+      "id": 2,
+      "title": "UI Clones",
+      "description": "Cloning UIs of apps: Twitter, Spotify, Netflix, Instagram, Snapchat",
+      "url": "https://github.com/mrigankdoshy/ui-clones",
+      "icon": "github",
+      "tags": ["Flutter", "iOS", "Android"]
+    },
+    {
+      "id": 3,
+      "title": "Astronutz",
+      "description": "Website for Astronutz - a collection of 10,000 nutty NFTs. Built using React + Chakra UI and hosted with Netlify",
+      "url": "https://github.com/mrigankdoshy/astronutz",
+      "icon": "web",
+      "tags": ["React", "Typescript", "Netlify"]
+    },
+    {
+      "id": 4,
+      "title": "Options Pricing",
+      "description": "Applying High Performance Computing techniques to compute the prices of American and European options using different pricing methods",
+      "url": "https://github.com/mrigankdoshy/options-pricing",
+      "icon": "alpha",
+      "tags": ["OpenMP", "MPI", "Monte Carlo"]
+    },
+    {
+      "id": 5,
+      "title": "Principal Component Analysis",
+      "description": "Explore PCA to discern whether low-dimensional structure exists in a set of data and to find good representations of the data in that subspace",
+      "url": "https://github.com/mrigankdoshy/principal-component-analysis",
+      "icon": "github",
+      "tags": ["Python", "Scikit-learn", "PCA"]
+    },
+    {
+      "id": 6,
+      "title": "K-means Clustering",
+      "description": "Implementing the k-means++ algorithm using it to cluster Iris dataset from the UCI Machine Learning Repository",
+      "url": "https://github.com/mrigankdoshy/k-means-clustering",
+      "icon": "github",
+      "tags": ["Python", "Scipy", "K-means"]
+    },
+    {
+      "id": 7,
+      "title": "Non-Linear Classifiers",
+      "description": "Experiment with non-linear classifiers: Boosted Decision Trees (i.e., boosting with decision trees as weak learner) and Random Forests",
+      "url": "https://github.com/mrigankdoshy/non-linear-classifiers",
+      "icon": "github",
+      "tags": ["Python", "Scikit-learn", "XGBoost"]
+    },
+    {
+      "id": 8,
+      "title": "Linear Regression",
+      "description": "A simple linear regression model with a modified loss function and try to solve it with Gradient Descant (GD) and Stochastic Gradient Descant (SGD)",
+      "url": "https://github.com/mrigankdoshy/linear-regression-gd-sgd",
+      "icon": "github",
+      "tags": ["Python", "Matplotlib"]
+    },
+    {
+      "id": 9,
+      "title": "K-NN Algorithm",
+      "description": "Use the k-NN algorithm to find the optimal value for the number of neighbors k, using the implementation in scikit-learn",
+      "url": "https://github.com/mrigankdoshy/k-NN-algorithm",
+      "icon": "github",
+      "tags": ["Python", "Scikit-learn"]
+    },
+    {
+      "id": 10,
+      "title": "Exploratory Data Analysis",
+      "description": "Basic data analysis on a simple data set (UCI Adult data set) using pandas package in Python",
+      "url": "https://github.com/mrigankdoshy/exploratory-data-analysis",
+      "icon": "github",
+      "tags": ["Python", "Pandas"]
+    }
+  ],
+  "footer": {
+    "lineOne": "I am Chicago based, \n",
+    "lineTwo": "passionately curious, \n",
+    "lineThree": "And love solving complex problems with code.",
+    "socials":[
+      {"iconName": "github","url":"https://github.com/justsiddharth"},
+      {"iconName": "instagram","url":"https://www.instagram.com/justsiddharth"},
+      {"iconName": "linkedin","url":"https://www.linkedin.com/in/siddharthjain12"},
+      {"iconName": "camera","url":"https://500px.com/p/justsiddharth?view=photos"}
+    ],
+    "contact": "Lets get in touch! I prefer !!Emails<mailto:sidd.jain91@gmail.com)>!! or !!LinkedIn Messages<https://www.linkedin.com/in/siddharthjain12>!!",
+    "copyright": "Siddharth Jain",
+    "source": "v1.0.0"
+  }
+}
